@@ -1,0 +1,2 @@
+# STM32_USART
+利用stm32CubeMX，配合Keil，完成LED流水灯作业，即用GPIO端口完成3只LED红绿灯的周期闪烁。完成一个STM32的USART串口通讯程序
